@@ -1,0 +1,3 @@
+- controladores tem a finalidade de manipular as requisiçoes das nossas api
+
+- endpoint é a URL
